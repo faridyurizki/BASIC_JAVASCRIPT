@@ -1,4 +1,4 @@
 function pesan(){
-    console.log("this is function")
+    console.log("this is javaScript function")
 }
 pesan();

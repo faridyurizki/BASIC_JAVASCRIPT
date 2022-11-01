@@ -3,3 +3,4 @@ var mynum2 = 10;
 if (mynum1<mynum2) {
     alert("JavaScript is easy to learn");
 };
+//bisa dijalankan di html
