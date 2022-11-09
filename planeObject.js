@@ -16,4 +16,4 @@ function Flight(flightNumber, status) {
     this.number = flightNumber;
     this.status = status;
 };
-main()
+main(``)
